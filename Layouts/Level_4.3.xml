@@ -2126,6 +2126,54 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
+                <instance type="Destination" uid="703">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <KeyRequired>3</KeyRequired>
+                        <LevelNumber>7</LevelNumber>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1867</x>
+                        <y>703</y>
+                        <z>0</z>
+                        <width>329.191131592</width>
+                        <height>270.698394775</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.50053823</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="LightCone" uid="706">
+                    <properties>
+                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1955</x>
+                        <y>825</y>
+                        <z>0</z>
+                        <width>575.892822266</width>
+                        <height>911.711242676</height>
+                        <depth>0</depth>
+                        <hotspotX>0.64267993</hotspotX>
+                        <hotspotY>0.496865213</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
                 <instance type="Player" uid="701">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
@@ -2203,32 +2251,6 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="Destination" uid="703">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <KeyRequired>2</KeyRequired>
-                        <LevelNumber>7</LevelNumber>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>1867</x>
-                        <y>703</y>
-                        <z>0</z>
-                        <width>329.191131592</width>
-                        <height>270.698394775</height>
-                        <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.50053823</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
                 <instance type="Key" uid="704">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
@@ -2275,28 +2297,6 @@
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="LightCone" uid="706">
-                    <properties>
-                        <initial-visibility>Invisible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>1955</x>
-                        <y>825</y>
-                        <z>0</z>
-                        <width>575.892822266</width>
-                        <height>911.711242676</height>
-                        <depth>0</depth>
-                        <hotspotX>0.64267993</hotspotX>
-                        <hotspotY>0.496865213</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>

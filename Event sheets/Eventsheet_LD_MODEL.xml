@@ -842,7 +842,7 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="8718132481505395">
+                <event-block disabled="1" sid="8718132481505395">
                     <conditions>
                         <condition id="0" name="On key pressed" sid="9447744900064713" type="Keyboard">
                             <param id="0" name="Key">32</param>
