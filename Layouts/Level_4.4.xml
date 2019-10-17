@@ -2055,40 +2055,6 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="SoundManager" uid="587">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <LevelMusic>dARK</LevelMusic>
-                        <IsFading>true</IsFading>
-                        <fadingCurrentVolume>-20</fadingCurrentVolume>
-                        <maxVolume>0</maxVolume>
-                        <fadingVolumeIncrement>0.001</fadingVolumeIncrement>
-                        <fadoutCurrentVolume>0</fadoutCurrentVolume>
-                        <minVolume>-20</minVolume>
-                        <MainMusicTag>main_1</MainMusicTag>
-                        <IsFadout>true</IsFadout>
-                        <fadoutVolumeIncrement>-0.04</fadoutVolumeIncrement>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>3664</x>
-                        <y>-588</y>
-                        <z>0</z>
-                        <width>512</width>
-                        <height>512</height>
-                        <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.5</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
                 <instance type="Held_Tool_2" uid="626">
                     <properties>
                         <initial-visibility>Invisible</initial-visibility>
@@ -2107,6 +2073,40 @@
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="SoundManager" uid="716">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <LevelMusic>dARK</LevelMusic>
+                        <IsFading>true</IsFading>
+                        <fadingCurrentVolume>-30</fadingCurrentVolume>
+                        <maxVolume>-10</maxVolume>
+                        <fadingVolumeIncrement>0.33333</fadingVolumeIncrement>
+                        <fadoutCurrentVolume>0</fadoutCurrentVolume>
+                        <minVolume>-30</minVolume>
+                        <MainMusicTag>main_7</MainMusicTag>
+                        <IsFadout>true</IsFadout>
+                        <fadoutVolumeIncrement>-0.17</fadoutVolumeIncrement>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>4381</x>
+                        <y>-572</y>
+                        <z>0</z>
+                        <width>512</width>
+                        <height>512</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>

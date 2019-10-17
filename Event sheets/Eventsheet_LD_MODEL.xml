@@ -16,7 +16,7 @@
         <variable constant="1" name="Dezoom_Duration" sid="567267852483651" static="0" type="number">180</variable>
         <event-group description="" sid="117859346085479" title="SoundDesign">
             <sub-events>
-                <event-block disabled="1" sid="271177147143665">
+                <event-block sid="271177147143665">
                     <conditions>
                         <condition id="-2" name="On start of layout" sid="745429194588013" type="System" />
                     </conditions>
@@ -38,7 +38,7 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block disabled="1" sid="111986063872266">
+                <event-block sid="111986063872266">
                     <conditions>
                         <condition id="0" name="On collision with another object" sid="101372583846059" type="Destination">
                             <param id="0" name="Object">Player</param>
@@ -51,7 +51,7 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block disabled="1" sid="733812495236875">
+                <event-block sid="733812495236875">
                     <conditions>
                         <condition id="-8" name="Is boolean instance variable set" sid="958828667347205" type="SoundManager">
                             <param id="0" name="Instance variable">IsFadout</param>
@@ -68,7 +68,7 @@
                         </action>
                     </actions>
                     <sub-events>
-                        <event-block disabled="1" sid="914112601052079">
+                        <event-block sid="914112601052079">
                             <conditions>
                                 <condition id="-7" name="Compare instance variable" sid="760834264163850" type="SoundManager">
                                     <param id="0" name="Instance variable">fadoutCurrentVolume</param>
@@ -92,7 +92,7 @@
                         </event-block>
                     </sub-events>
                 </event-block>
-                <event-block disabled="1" sid="970296155262478">
+                <event-block sid="970296155262478">
                     <conditions>
                         <condition id="-8" name="Is boolean instance variable set" sid="402610169834305" type="SoundManager">
                             <param id="0" name="Instance variable">IsFading</param>
@@ -109,7 +109,7 @@
                         </action>
                     </actions>
                     <sub-events>
-                        <event-block disabled="1" sid="858112856165993">
+                        <event-block sid="858112856165993">
                             <conditions>
                                 <condition id="-7" name="Compare instance variable" sid="252218002155650" type="SoundManager">
                                     <param id="0" name="Instance variable">fadingCurrentVolume</param>
@@ -398,7 +398,7 @@
                             <param id="1" name="Audio file name">&quot;Onde&quot;</param>
                             <param id="3" name="Loop">0</param>
                             <param id="4" name="Volume">0</param>
-                            <param id="2" name="Tag (optional)">&quot;&quot;</param>
+                            <param id="2" name="Tag (optional)">&quot;onde&quot;</param>
                         </action>
                     </actions>
                     <sub-events>

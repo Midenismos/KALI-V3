@@ -1506,7 +1506,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="SoundManager" uid="635">
+                <instance type="SoundManager" uid="734">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1516,20 +1516,20 @@
                     <instance-variables>
                         <LevelMusic>sIGUR</LevelMusic>
                         <IsFading>true</IsFading>
-                        <fadingCurrentVolume>-20</fadingCurrentVolume>
-                        <maxVolume>0</maxVolume>
-                        <fadingVolumeIncrement>0.001</fadingVolumeIncrement>
+                        <fadingCurrentVolume>-30</fadingCurrentVolume>
+                        <maxVolume>-10</maxVolume>
+                        <fadingVolumeIncrement>0.33333</fadingVolumeIncrement>
                         <fadoutCurrentVolume>0</fadoutCurrentVolume>
-                        <minVolume>-20</minVolume>
-                        <MainMusicTag>main_1</MainMusicTag>
+                        <minVolume>-30</minVolume>
+                        <MainMusicTag>main_4</MainMusicTag>
                         <IsFadout>true</IsFadout>
-                        <fadoutVolumeIncrement>-0.001</fadoutVolumeIncrement>
+                        <fadoutVolumeIncrement>-0.17</fadoutVolumeIncrement>
                     </instance-variables>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>3407</x>
-                        <y>-477</y>
+                        <x>1098</x>
+                        <y>-548</y>
                         <z>0</z>
                         <width>512</width>
                         <height>512</height>

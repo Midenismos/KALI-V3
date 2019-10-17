@@ -1046,6 +1046,40 @@
                         <opacity>0.899999976</opacity>
                     </world>
                 </instance>
+                <instance type="SoundManager" uid="733">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <LevelMusic>imfinenow-you-and-i</LevelMusic>
+                        <IsFading>true</IsFading>
+                        <fadingCurrentVolume>-30</fadingCurrentVolume>
+                        <maxVolume>-10</maxVolume>
+                        <fadingVolumeIncrement>0.33333</fadingVolumeIncrement>
+                        <fadoutCurrentVolume>0</fadoutCurrentVolume>
+                        <minVolume>-30</minVolume>
+                        <MainMusicTag>main_0</MainMusicTag>
+                        <IsFadout>true</IsFadout>
+                        <fadoutVolumeIncrement>-0.17</fadoutVolumeIncrement>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>2237</x>
+                        <y>-382</y>
+                        <z>0</z>
+                        <width>512</width>
+                        <height>512</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
             </instances>
             <effects />
         </layer>

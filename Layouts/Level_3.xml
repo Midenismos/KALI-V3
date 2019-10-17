@@ -1635,14 +1635,14 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <LevelMusic>imfinenow-you-and-i</LevelMusic>
+                        <LevelMusic>nymano-douceur-ft-saib</LevelMusic>
                         <IsFading>true</IsFading>
-                        <fadingCurrentVolume>-20</fadingCurrentVolume>
-                        <maxVolume>0</maxVolume>
+                        <fadingCurrentVolume>-30</fadingCurrentVolume>
+                        <maxVolume>-10</maxVolume>
                         <fadingVolumeIncrement>0.33333</fadingVolumeIncrement>
                         <fadoutCurrentVolume>0</fadoutCurrentVolume>
-                        <minVolume>-20</minVolume>
-                        <MainMusicTag>main_0</MainMusicTag>
+                        <minVolume>-30</minVolume>
+                        <MainMusicTag>main_3</MainMusicTag>
                         <IsFadout>true</IsFadout>
                         <fadoutVolumeIncrement>-0.17</fadoutVolumeIncrement>
                     </instance-variables>

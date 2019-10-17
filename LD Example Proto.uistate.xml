@@ -11,22 +11,21 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     </configurations>
     <open-tabs>
         <layout order="0">Level_0</layout>
-        <layout active="1" order="1">Level_1</layout>
-        <layout order="3">Level_2</layout>
-        <layout order="4">Level_3</layout>
-        <layout order="5">Level_2.1</layout>
-        <layout order="6">Level_2.2</layout>
-        <layout order="7">Tittle Screen</layout>
-        <layout order="8">Level_4.1</layout>
-        <layout order="9">Level_4.2</layout>
+        <layout order="1">Level_1</layout>
+        <layout order="2">Level_2</layout>
+        <layout order="3">Level_3</layout>
+        <layout order="4">Level_2.1</layout>
+        <layout order="5">Level_2.2</layout>
+        <layout order="6">Tittle Screen</layout>
+        <layout order="7">Level_4.1</layout>
+        <layout order="8">Level_4.2</layout>
         <layout order="10">Level_4.3</layout>
-        <layout order="11">Level_4.4</layout>
-        <layout order="12">Options</layout>
-        <layout order="14">LD_MODEL</layout>
-        <layout order="15">Credits</layout>
-        <event-sheet order="2">Event sheetTittleScreen</event-sheet>
-        <event-sheet order="13">Event sheet Options</event-sheet>
-        <event-sheet order="16">Eventsheet_LD_MODEL</event-sheet>
+        <layout active="1" order="9">Level_4.4</layout>
+        <layout order="11">Options</layout>
+        <layout order="13">LD_MODEL</layout>
+        <layout order="14">Credits</layout>
+        <event-sheet order="12">Event sheet Options</event-sheet>
+        <event-sheet order="15">Eventsheet_LD_MODEL</event-sheet>
     </open-tabs>
     <properties>
         <property expanded="1" name="About" />
@@ -65,10 +64,10 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="0" path="object-folder/Credits/" />
         <folder expanded="0" path="object-folder/Onde/" />
         <folder expanded="1" path="object-folder/Options/" />
-        <folder expanded="0" path="layout-folder/" />
+        <folder expanded="1" path="layout-folder/" />
         <folder expanded="0" path="event-folder/" />
         <folder expanded="0" path="file-folder/" />
-        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="0" path="sound-folder/" />
         <folder expanded="1" path="music-folder/" />
         <folder expanded="0" path="file-folder/Icons/" />
         <folder expanded="1" path="animation-folder/Help_Onde_End/" />

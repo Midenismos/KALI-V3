@@ -1498,8 +1498,8 @@
         <layout>Level_3.xml</layout>
         <layout>Level_4.1.xml</layout>
         <layout>Level_4.2.xml</layout>
-        <layout>Level_4.3.xml</layout>
         <layout>Level_4.4.xml</layout>
+        <layout>Level_4.3.xml</layout>
         <layout>Level_2.1.xml</layout>
         <layout>Level_2.2.xml</layout>
         <layout>Tittle Screen.xml</layout>
@@ -1550,6 +1550,10 @@
         <file name="Onde.m4a" />
         <file name="Onde.ogg" />
         <file name="Emotional Dark Music - The Eternal Forest.ogg" />
+        <file name="hugo-kant-the-eye.m4a" />
+        <file name="hugo-kant-the-eye.ogg" />
+        <file name="nymano-douceur-ft-saib.m4a" />
+        <file name="nymano-douceur-ft-saib.ogg" />
     </sounds-folder>
     <music-folder />
     <files-folder>
