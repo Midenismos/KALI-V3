@@ -633,11 +633,11 @@
                         <x>-128</x>
                         <y>1184</y>
                         <z>0</z>
-                        <width>250</width>
-                        <height>250</height>
+                        <width>1566</width>
+                        <height>1557</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.5</hotspotY>
+                        <hotspotY>0.50032115</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -683,11 +683,11 @@
                         <x>-128</x>
                         <y>960</y>
                         <z>0</z>
-                        <width>250</width>
-                        <height>250</height>
+                        <width>1566</width>
+                        <height>1557</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.5</hotspotY>
+                        <hotspotY>0.50032115</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -705,8 +705,8 @@
                         <x>1248</x>
                         <y>1376</y>
                         <z>0</z>
-                        <width>250</width>
-                        <height>250</height>
+                        <width>2870</width>
+                        <height>2872</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
@@ -830,8 +830,8 @@
                         <x>1312</x>
                         <y>-544</y>
                         <z>0</z>
-                        <width>250</width>
-                        <height>250</height>
+                        <width>2870</width>
+                        <height>2872</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>

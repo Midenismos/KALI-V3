@@ -508,7 +508,7 @@
                     </behaviors>
                     <animation-folder>
                         <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="874846190603777" speed="5">
-                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\COURS\ARTLINE\B3\EXO\UV01\KALI\DA\TOOL2\VALID\jh2.png" />
                         </animation>
                     </animation-folder>
                 </object-type>
@@ -516,7 +516,7 @@
                     <plugin id="Sprite" />
                     <animation-folder>
                         <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="868037297164135" speed="5">
-                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\COURS\ARTLINE\B3\EXO\UV01\KALI\DA\TOOL2\VALID\jh2.png" />
                         </animation>
                     </animation-folder>
                 </object-type>
@@ -580,7 +580,18 @@
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="409558270072270" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.500321" original-source="D:\COURS\ARTLINE\B3\EXO\UV01\KALI\DA\TOOL2\VALID\JH.png">
+                            <collision-poly>
+                                <point x="0.148787" y="0.149647" />
+                                <point x="0.5" y="0.000642261" />
+                                <point x="0.849936" y="0.150931" />
+                                <point x="0.942529" y="0.499679" />
+                                <point x="0.855683" y="0.854849" />
+                                <point x="0.5" y="0.999358" />
+                                <point x="0.154534" y="0.844573" />
+                                <point x="0.0153257" y="0.499679" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
