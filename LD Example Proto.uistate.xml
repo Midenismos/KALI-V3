@@ -12,20 +12,18 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     <open-tabs>
         <layout order="0">Level_0</layout>
         <layout order="1">Level_1</layout>
-        <layout active="1" order="2">Level_2</layout>
-        <layout order="3">Level_3</layout>
-        <layout order="4">Level_2.1</layout>
-        <layout order="5">Level_2.2</layout>
-        <layout order="6">Tittle Screen</layout>
-        <layout order="7">Level_4.1</layout>
-        <layout order="8">Level_4.2</layout>
-        <layout order="9">Level_4.4</layout>
-        <layout order="10">Level_4.3</layout>
-        <layout order="11">Options</layout>
-        <layout order="13">LD_MODEL</layout>
-        <layout order="14">Credits</layout>
-        <event-sheet order="12">Event sheet Options</event-sheet>
-        <event-sheet order="15">Eventsheet_LD_MODEL</event-sheet>
+        <layout order="2">Level_2</layout>
+        <layout active="1" order="3">Level_3</layout>
+        <layout order="4">Tittle Screen</layout>
+        <layout order="5">Level_4.1</layout>
+        <layout order="6">Level_4.2</layout>
+        <layout order="7">Level_4.4</layout>
+        <layout order="8">Level_4.3</layout>
+        <layout order="9">Options</layout>
+        <layout order="11">LD_MODEL</layout>
+        <layout order="12">Credits</layout>
+        <event-sheet order="10">Event sheet Options</event-sheet>
+        <event-sheet order="13">Eventsheet_LD_MODEL</event-sheet>
     </open-tabs>
     <properties>
         <property expanded="1" name="About" />
@@ -38,18 +36,18 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     </families-expanded>
     <folders-expanded>
         <folder expanded="1" path="object-folder/" />
-        <folder expanded="0" path="object-folder/Tutorial/" />
+        <folder expanded="1" path="object-folder/Tutorial/" />
         <folder expanded="0" path="object-folder/Tutorial/Onde/" />
         <folder expanded="0" path="object-folder/Tutorial/Jump/" />
         <folder expanded="0" path="object-folder/Tutorial/Double Jump/" />
         <folder expanded="0" path="object-folder/Tutorial/Tool 1/" />
         <folder expanded="0" path="object-folder/Tutorial/Key/" />
-        <folder expanded="0" path="object-folder/Tutorial/Tool 2/" />
+        <folder expanded="1" path="object-folder/Tutorial/Tool 2/" />
         <folder expanded="0" path="object-folder/Menus/" />
         <folder expanded="0" path="object-folder/Menus/SelectionLevels/" />
         <folder expanded="0" path="object-folder/Menus/TitleScreen/" />
         <folder expanded="0" path="object-folder/Menus/Pause/" />
-        <folder expanded="1" path="object-folder/Tools/" />
+        <folder expanded="0" path="object-folder/Tools/" />
         <folder expanded="0" path="object-folder/Tools/Tool_1/" />
         <folder expanded="1" path="object-folder/Tools/Tool_2/" />
         <folder expanded="0" path="object-folder/LDBricks/" />
@@ -95,6 +93,9 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/Help_Tool2_Start/" />
         <folder expanded="1" path="animation-folder/Help_Tool2_End/" />
         <folder expanded="1" path="animation-folder/Help_Tool2_Text2/" />
+        <folder expanded="1" path="animation-folder/Help_Tool2_Start2/" />
+        <folder expanded="1" path="animation-folder/Help_Tool2_End2/" />
+        <folder expanded="1" path="animation-folder/Help_Tool2_Text3/" />
         <folder expanded="1" path="animation-folder/Background/" />
         <folder expanded="1" path="animation-folder/Sprite6/" />
         <folder expanded="1" path="animation-folder/Sprite/" />

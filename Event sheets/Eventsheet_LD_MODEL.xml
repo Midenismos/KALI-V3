@@ -1480,6 +1480,36 @@
                                 </action>
                             </actions>
                         </event-block>
+                        <event-block sid="172025313532602">
+                            <conditions>
+                                <condition id="1" name="Is overlapping another object" sid="230271229840783" type="Help_Tool2_Start2">
+                                    <param id="0" name="Object">Player</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="164277787815904" type="Help_Tool2_Text3">
+                                    <param id="0" name="Visibility">1</param>
+                                </action>
+                                <action id="-15" name="Set visible" sid="776417722180208" type="Help_Jump_Sign">
+                                    <param id="0" name="Visibility">1</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="370751962615373">
+                            <conditions>
+                                <condition id="1" name="Is overlapping another object" sid="705874206776050" type="Help_Tool2_End2">
+                                    <param id="0" name="Object">Player</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="815694917181562" type="Help_Tool2_Text3">
+                                    <param id="0" name="Visibility">0</param>
+                                </action>
+                                <action id="-15" name="Set visible" sid="999668524436362" type="Help_Jump_Sign">
+                                    <param id="0" name="Visibility">0</param>
+                                </action>
+                            </actions>
+                        </event-block>
                     </sub-events>
                 </event-group>
             </sub-events>

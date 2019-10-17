@@ -315,6 +315,35 @@
                         </animation>
                     </animation-folder>
                 </object-type>
+                <object-type name="Help_Tool2_Start2" sid="765751460497196">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="669007999159397" speed="5">
+                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="Help_Tool2_End2" sid="659579246551407">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="616638736617866" speed="5">
+                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="Help_Tool2_Text3" sid="949409947971636">
+                    <plugin id="Sprite" />
+                    <effects>
+                        <effect-type name="Noise">
+                            <effect id="noise" />
+                        </effect-type>
+                    </effects>
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="968904093371916" speed="5">
+                            <frame duration="1" hotspotX="0.500131" hotspotY="0.5" original-source="D:\COURS\ARTLINE\B3\EXO\UV01\KALI\UI\TUTO TEXT\Tool2_MOVINGLEVITER.png" />
+                        </animation>
+                    </animation-folder>
+                </object-type>
             </object-folder>
         </object-folder>
         <object-folder name="Menus">
@@ -582,14 +611,12 @@
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="409558270072270" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.500321" original-source="D:\COURS\ARTLINE\B3\EXO\UV01\KALI\DA\TOOL2\VALID\JH.png">
                             <collision-poly>
-                                <point x="0.148787" y="0.149647" />
+                                <point x="0.0900386" y="0.219011" />
                                 <point x="0.5" y="0.000642261" />
-                                <point x="0.849936" y="0.150931" />
-                                <point x="0.942529" y="0.499679" />
-                                <point x="0.855683" y="0.854849" />
+                                <point x="0.901021" y="0.248555" />
+                                <point x="0.906769" y="0.795761" />
                                 <point x="0.5" y="0.999358" />
-                                <point x="0.154534" y="0.844573" />
-                                <point x="0.0153257" y="0.499679" />
+                                <point x="0.0753514" y="0.770071" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -1511,12 +1538,12 @@
         <layout>Level_4.2.xml</layout>
         <layout>Level_4.4.xml</layout>
         <layout>Level_4.3.xml</layout>
-        <layout>Level_2.1.xml</layout>
-        <layout>Level_2.2.xml</layout>
+        <layout>Credits.xml</layout>
         <layout>Tittle Screen.xml</layout>
         <layout>Level Select.xml</layout>
-        <layout>Credits.xml</layout>
         <layout>Options.xml</layout>
+        <layout>Level_2.1.xml</layout>
+        <layout>Level_2.2.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Eventsheet_LD_MODEL.xml</event-sheet>
@@ -1565,6 +1592,14 @@
         <file name="hugo-kant-the-eye.ogg" />
         <file name="nymano-douceur-ft-saib.m4a" />
         <file name="nymano-douceur-ft-saib.ogg" />
+        <file name="hugo-kant-emi.m4a" />
+        <file name="hugo-kant-emi.ogg" />
+        <file name="biosphere-aria-for-our-dreams.m4a" />
+        <file name="biosphere-aria-for-our-dreams.ogg" />
+        <file name="kendall-miles-youth.m4a" />
+        <file name="kendall-miles-youth.ogg" />
+        <file name="EMI_SHORTER.m4a" />
+        <file name="EMI_SHORTER.ogg" />
     </sounds-folder>
     <music-folder />
     <files-folder>

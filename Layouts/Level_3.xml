@@ -1635,7 +1635,7 @@
                         <collisions>Enabled</collisions>
                     </properties>
                     <instance-variables>
-                        <LevelMusic>nymano-douceur-ft-saib</LevelMusic>
+                        <LevelMusic>EMI_SHORTER</LevelMusic>
                         <IsFading>true</IsFading>
                         <fadingCurrentVolume>-30</fadingCurrentVolume>
                         <maxVolume>-10</maxVolume>
@@ -1756,11 +1756,107 @@
                         <x>2651</x>
                         <y>290</y>
                         <z>0</z>
-                        <width>1694.975708008</width>
+                        <width>1767.913574219</width>
                         <height>150.019851685</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Help_Tool2_Start2" uid="587">
+                    <properties>
+                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>2805</x>
+                        <y>1903</y>
+                        <z>0</z>
+                        <width>410</width>
+                        <height>398</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Help_Tool2_End2" uid="624">
+                    <properties>
+                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>2146.5</x>
+                        <y>697.5</y>
+                        <z>0</z>
+                        <width>905</width>
+                        <height>553</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Help_Tool2_Text3" uid="736">
+                    <properties>
+                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <effect-instances>
+                        <effect-instance type="Noise">
+                            <parameters>
+                                <color>0.2</color>
+                                <intensity>0.6</intensity>
+                            </parameters>
+                        </effect-instance>
+                    </effect-instances>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1760</x>
+                        <y>2227</y>
+                        <z>0</z>
+                        <width>1652.214111328</width>
+                        <height>157.023239136</height>
+                        <depth>0</depth>
+                        <hotspotX>0.500131249</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Help_Jump_Sign" uid="737">
+                    <properties>
+                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1757</x>
+                        <y>1999</y>
+                        <z>0</z>
+                        <width>186.076950073</width>
+                        <height>184.594268799</height>
+                        <depth>0</depth>
+                        <hotspotX>0.501992047</hotspotX>
+                        <hotspotY>0.502008021</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
